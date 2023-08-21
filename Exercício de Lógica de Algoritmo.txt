@@ -102,7 +102,7 @@
 	3: Enquanto i < quantidade
 	4: 	Leia número
 	5: 	Leia peso
-	6: 	soma_números = soma_números + número
+	6: 	soma_números = soma_números + (número * peso)
 	7: 	soma_pesos = soma_pesos + peso
 	8: 	i = i + 1
 	9: média = soma_números / soma_pesos
